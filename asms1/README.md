@@ -1,4 +1,4 @@
-# Section Notes 2
+# CS61 - Section Notes
 ## Outline
 
 * [Debugging Tools](#debugging-tools)
